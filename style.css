@@ -1,5 +1,6 @@
 * {
-    margin: auto;
+    margin: 0 auto;
+    margin-top: 10px;
     box-sizing: border-box;
     text-align: center;
   }
@@ -12,32 +13,33 @@ body{
     font-size: 18px;
 }
 
-.header{
+header{
     background: #ebebeb;
     padding: 20px;
     margin-bottom: 20px;  
+    
 }
 
-.nav{
+nav{
     background: #ebebeb;
     padding: 20px;
     margin-bottom: 20px; 
 }
 
-.section{
-    float:left;
+section{
+    float: left;
     background: #ebebeb;
     padding: 20px;
     margin-bottom: 20px; 
     width: 495px;
 }
 
-.article{
+article{
     color:#ebebeb;
     background: #777;
 }
-.aside{
-    float: right;
+aside{
+    float: left;
     background: #ebebeb;
     padding: 20px;
     margin-right: 20px; 
@@ -45,7 +47,7 @@ body{
     float: right;
 }
 
-.footer{
+footer{
     background: #ebebeb;
     padding: 20px;
     margin-bottom: 20px; 
