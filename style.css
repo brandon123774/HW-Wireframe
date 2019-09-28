@@ -25,31 +25,39 @@ nav{
     padding: 20px;
     margin-bottom: 20px; 
 }
+.cut{
+    display: block;
+    clear: both;
 
+}
 section{
     float: left;
+    width: 60%;
+    height: 300px;;
     background: #ebebeb;
-    padding: 20px;
+    padding: 40x;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 20px; 
-    width: 495px;
 }
 
 article{
     color:#ebebeb;
     background: #777;
-}
+    width: 100%;
+    padding: 20px;
+} 
 aside{
     float: left;
     background: #ebebeb;
     padding: 20px;
-    margin-right: 20px; 
-    width: 495px;
-    float: right;
+    width: 40%;
 }
 
 footer{
     background: #ebebeb;
     padding: 20px;
     margin-bottom: 20px; 
+    width: 100%;
 }
 
