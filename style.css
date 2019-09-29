@@ -6,6 +6,7 @@ body{
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin:auto;
 }
 
 header{
@@ -27,8 +28,20 @@ section{
     margin: 20px;
     text-align: center;
     float: left;
-    width: 500px;
-    height: 600px;
+    width: 495px;
+    height: 620px;
+}
+
+article{
+    color:#ebebeb;
+    background:#777;
+    padding: 20px;
+    margin: 20px;
+}
+
+.nest{
+    color: '#777';
+    background: '#ebebeb';
 }
 
 aside{
@@ -37,10 +50,7 @@ aside{
     text-align: center;
     float: right;
     width: 420px;
-    height: 600px;
-    text-align: center;
-    
-    
+    height: 620px;
 }
 
 footer{
