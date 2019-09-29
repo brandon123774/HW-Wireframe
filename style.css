@@ -22,8 +22,9 @@ nav{
     margin: 20px; 
 }
 
-section{
+.leftSide{
     background: #ebebeb;
+    color: #777;
     padding: 20x;
     margin: 20px;
     text-align: center;
@@ -33,17 +34,24 @@ section{
 }
 
 article{
-    color:#ebebeb;
     background:#777;
     padding: 20px;
     margin: 20px;
 }
 
-.nest{
-    color: '#777';
-    background: '#ebebeb';
+h3{
+    color: #777;
+    background: #ebebeb;
+    padding: 20px;
+    margin: 20px;
 }
 
+p{
+    color: #777;
+    background: #ebebeb;
+    padding: 20px;
+    margin: 20px;
+}
 aside{
     background: #ebebeb;
     padding: 20px;
@@ -52,7 +60,6 @@ aside{
     width: 420px;
     height: 620px;
 }
-
 footer{
     background: #ebebeb;
     padding: 20px;
